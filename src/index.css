@@ -26,6 +26,12 @@
   --node-label: #bc8cff;
   --node-central: #f0883e;
 
+  /* Icicle chart colors */
+  --icicle-root: #2d333b;
+  --icicle-collaborator: #1f4b6e;
+  --icicle-role: #2d5a45;
+  --icicle-release: #4a3f2a;
+
   /* Spacing */
   --space-xs: 4px;
   --space-sm: 8px;
