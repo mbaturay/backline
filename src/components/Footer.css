@@ -1,0 +1,25 @@
+.footer {
+  height: 32px;
+  background: var(--bg-tertiary);
+  border-top: 1px solid var(--border-color);
+  padding: 0 var(--space-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.footer-attribution a {
+  color: var(--accent-primary);
+}
+
+.footer-divider {
+  color: var(--border-color);
+}
+
+.footer-tech {
+  color: var(--text-muted);
+}
